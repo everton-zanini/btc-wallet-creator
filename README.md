@@ -8,7 +8,7 @@ O BTC Wallet Creator é uma aplicação desenvolvida em JavaScript que permite a
 **Compatibilidade com BIP39:** Implementação do padrão BIP39 para geração de mnemônicos e recuperação de carteiras.
 
 ## Como Usar
-##Pré-requisitos
+### Pré-requisitos
 Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo aqui.
 
 ## Instalação
@@ -30,5 +30,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto é licenciado sob a Licença MIT.
 
 ## Contato
-(Linkedin)[https://www.linkedin.com/in/everton-zanini-8bb43917a/]
-(Instagram)[https://www.instagram.com/dev_zanini/]
+[Linkedin](https://www.linkedin.com/in/everton-zanini-8bb43917a/)
+[Instagram](https://www.instagram.com/dev_zanini/)
