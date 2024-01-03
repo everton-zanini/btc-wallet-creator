@@ -30,5 +30,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto é licenciado sob a Licença MIT.
 
 ## Contato
-[Linkedin](https://www.linkedin.com/in/everton-zanini-8bb43917a/)
+[Linkedin](https://www.linkedin.com/in/everton-zanini-8bb43917a/) <br/>
 [Instagram](https://www.instagram.com/dev_zanini/)
